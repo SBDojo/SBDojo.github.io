@@ -22,7 +22,7 @@ feature_row:
         btn_label: "Read More"
         btn_class: "btn--inverse"
     -   title: "About SB CoderDojo"
-        excerpt: "Learn more about SB CoderDojo!"
+        excerpt: "Learn more about SB CoderDojo."
         url: "about"
         btn_label: "Read More"
         btn_class: "btn--inverse"
