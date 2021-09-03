@@ -13,7 +13,7 @@ coderdojo_image:
             [The CoderDojo Movement](https://coderdojo.com){:target="_blank"}{: .btn .btn--inverse .btn--large}
 ---
 
-South Brunswick CoderDojo is a **volunteer** community program that provides **free** out-of-school learning experiences for youth grades three through eight to explore programming and its related areas.
+South Brunswick CoderDojo is a **volunteer** community program that provides **free** out-of-school learning experiences for youth, grades three through eight, to explore programming and its related areas.
 
 Our mission is to empower the next generation to explore programming and other STEAM concepts. We work to create a collaborative, fun, and innovative environment where participants are able to jumpstart their passion for technology.
 
