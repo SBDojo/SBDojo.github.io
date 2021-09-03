@@ -17,5 +17,3 @@ group :jekyll_plugins do
 end
 
 gem "webrick"
-
-gemspec
