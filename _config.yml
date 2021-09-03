@@ -30,6 +30,9 @@ markdown: kramdown
 # Outputting
 timezone: "America/New_York"
 
+# Lunr Search
+search: true
+
 include:
   - _pages
   - _includes
