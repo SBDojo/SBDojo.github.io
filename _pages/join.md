@@ -10,6 +10,17 @@ header:
 
 Thank you for your interest in becoming a member of the South Brunswick CoderDojo (coding club). 
 
-Our Dojo runs four, five-week long terms each school year. During a term, we host one meeting per week where participants (who we call Ninjas) come and engage in our coding-related activities. 
+Our Dojo runs four, five-week long terms each school year. Enrollment in these terms is **absolutely free**. During a term, we host one meeting per week where participants (who we call Ninjas) come and engage in our coding-related activities. Our meeting location is the **Smart Lab** in the [South Brunswick Public Library](https://sbpl.info). 
 
-To see more information about our classes and instructions on signing up, please go to our [Knowledge Base](https://sbdojo.gitbook.io/knowledge-base/ninjas/sign-up){:target="_blank"}.
+Signups for **session #1** of the **2021-2022** school year (grades 6-8) are currently open! During this session, Ninjas will learn how to make a Python Discord bot, a fully-functioning website, and an interactive text adventure game. 
+
+This session will have workshops every Sunday from 1:00 pm to 2:30 pm, with the first meeting on September 26 and the last on October 24. This program is **beginner-friendly** but also welcomes advanced Ninjas!
+
+To sign up for the session, parents need to email [teens@sbpl.info](mailto:teens@sbpl.info) requesting to enroll their child(ren) in the session. 
+
+There is a member cap of **15 students** for this session, so you should signup ASAP if you want to reserve your spot!
+
+{: .notice--info}
+**Signing up for our Dojo session means signing up for the entire 5 weeks. Since we have a limited number of spots, we ask that all accepted members commit to attending the workshops. If you reserved a spot and would like to pull yourself from the program, please do so ASAP.**
+
+Once you've signed up, please read [this article](https://sbdojo.gitbook.io/ninjas/attending-a-dojo) from our knowledge base to see what you should do to prepare for the first workshop.
