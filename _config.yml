@@ -33,6 +33,9 @@ timezone: "America/New_York"
 # Lunr Search
 search: true
 
+# Breadcrumbs
+breadcrumbs: true
+
 include:
   - _pages
   - _includes
@@ -76,6 +79,16 @@ footer:
 
 atom_feed:
   hide: true
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : MDEwOlJlcG9zaXRvcnk0MDI1Mzg0NTA=
+    category_name        : Announcements
+    category_id          : DIC_kwDOF_4_0s4B-8IU
+    discussion_term      : "pathname"
+    reactions_enabled    : '1'
+    theme                : "light"
 
 defaults:
   # _posts
