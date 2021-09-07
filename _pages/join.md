@@ -14,9 +14,20 @@ Our Dojo runs four sessions every school year. Each session is five-weeks long. 
 
 Signups for **Session #1** of the **2021-2022** school year (grades 6-8) are currently open! During this session, Ninjas will learn how to make a python Discord bot, a fully-functioning website, and an interactive text adventure game. 
 
-This session will have workshops every Sunday from 1:00 pm to 2:30 pm, with the first meeting on September 26 and the last on October 24. This program is **beginner-friendly** but also welcomes advanced Ninjas!
+This session will have workshops every Sunday from 1:00 pm to 2:30 pm, with the first meeting on September 26 and the last on October 24, as shown below:
 
-To sign up for the session, parents need to email [teens@sbpl.info](mailto:teens@sbpl.info) requesting to enroll their child(ren) in the session. 
+| Week Number | Date of Meeting    |
+|-------------|--------------------|
+| Week 1      | September 26, 2021 |
+| Week 2      | October 3, 2021    |
+| Week 3      | October 10, 2021   |
+| Week 4      | October 17, 2021   |
+| Week 5      | October 24, 2021   |
+
+<br>
+This program is **beginner-friendly** but also welcomes advanced Ninjas!
+
+To sign up for the session, parents are to email [teens@sbpl.info](mailto:teens@sbpl.info) requesting to enroll their child(ren) in the session. 
 
 There is a member cap of **15 students** for this session, so you should signup ASAP if you want to reserve your spot!
 
