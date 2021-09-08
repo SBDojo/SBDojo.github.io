@@ -32,6 +32,6 @@ To sign up for the session, parents are to email [teens@sbpl.info](mailto:teens@
 There is a member cap of **15 students** for this session, so you should signup ASAP if you want to reserve your spot!
 
 {: .notice--info}
-**Signing up for our Dojo session means signing up for the entire 5 weeks. Since we have a limited number of spots, we ask that all accepted members commit to attending the workshops. If you reserved a spot and would like to pull yourself from the program, please do so ASAP.**
+**Signing up for our Dojo session means signing up for the entire 5 weeks. Since we have a limited number of spots, we ask that all accepted members commit to attending the workshops. If you reserved a spot and would like to pull yourself from the program, please email [teens@sbpl.info](mailto:teens@sbpl.info) ASAP.**
 
 Once you've signed up, please read [this article](https://sbdojo.gitbook.io/ninjas/attending-a-dojo) from our knowledge base to see what you should do to prepare for the first workshop. Most importantly, you will need to **bring your own laptop to every meeting**.
