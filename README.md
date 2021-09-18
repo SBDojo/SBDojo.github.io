@@ -11,3 +11,4 @@ We use a static site generator called Jekyll. It takes markdown files (essential
 
 ### Why do you upload your files to GitHub?
 We use GitHub's static website service, Github Pages, to host our website. The way it works is we upload our website files to a GitHub repository, and they are then processed and uploaded to webservers which display them on [SBDojo.github.io](https://sbdojo.github.io).
+f
