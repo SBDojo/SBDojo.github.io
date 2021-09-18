@@ -10,7 +10,7 @@ header:
         -   label: "Join"
             url: "join"
 
-excerpt: "Infspiring the next generation of coders."
+excerpt: "Inspiring the next generation of coders."
 
 intro: 
     -   excerpt: 'Please navigate the website to learn more about us, our workshops, and more!'
