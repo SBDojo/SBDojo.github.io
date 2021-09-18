@@ -9,7 +9,7 @@ header:
     actions:
         -   label: "Join"
             url: "join"
-aksjhfjsd
+
 excerpt: "Inspiring the next generation of coders."
 
 intro: 
