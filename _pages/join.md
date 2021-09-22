@@ -29,7 +29,7 @@ This program is **beginner-friendly** but also welcomes advanced Ninjas!
 
 To sign up for the session, parents are to email [teens@sbpl.info](mailto:teens@sbpl.info){:target="_blank"} requesting to enroll their child(ren) in the session. 
 
-There is a member cap of **15 students** for this session, so you should signup ASAP if you want to reserve your spot!
+There is a limited number of spots for this session, so you should signup ASAP if you want to reserve your spot!
 
 {: .notice--info}
 Signing up for our Dojo session means signing up for the entire 5 weeks. Since we have a limited number of spots, we ask that all accepted members commit to **attending each workshop**. If you reserved a spot and would like to pull yourself from the program, please email [teens@sbpl.info](mailto:teens@sbpl.info){:target="_blank"} ASAP.
