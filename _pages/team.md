@@ -1,5 +1,5 @@
 ---
-permalink: /team/
+permalink: /about/team/
 layout: splash
 
 title: Team
