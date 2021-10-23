@@ -24,14 +24,13 @@ logo: "/assets/images/sb-coderdojo-logo.png"
 
 repository: "SBDojo/SBDojo.github.io"
 
+remote_theme: "mmistakes/minimal-mistakes"
+
 # Build settings
 markdown: kramdown
 
 # Outputting
 timezone: "America/New_York"
-
-# Lunr Search
-search: true
 
 # Breadcrumbs
 breadcrumbs: true
