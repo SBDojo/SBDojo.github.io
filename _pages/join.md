@@ -10,9 +10,12 @@ header:
 
 Thank you for your interest in becoming a member of the South Brunswick CoderDojo (coding club). 
 
-Our Dojo runs four sessions every school year. Each session is five-weeks long. Enrollment in these sessions is **absolutely free**. During a session, we host one meeting per week where participants (who we call Ninjas) come and engage in our coding-related activities. Our meeting location is the **Smart Lab** in the [South Brunswick Public Library](https://sbpl.info){:target="_blank"}. 
+Our Dojo runs multiple "sessions" every school year. Each session is five-weeks long, but the actual length can vary. Enrollment in these sessions is **absolutely free**. During a session, we host one meeting per week where participants (who we call Ninjas) come and engage in our coding-related activities. Our meeting location is the **Smart Lab** in the [South Brunswick Public Library](https://sbpl.info){:target="_blank"}. Specific information regarding a session, such as dates, timings, and location are released at the same time that signups open.
 
-Signups for **Session #1** of the **2021-2022** school year (grades 6-8) are currently open! During this session, Ninjas will learn how to make a python Discord bot, a fully-functioning website, and an interactive text adventure game. 
+Signups for **Session #1** (9/30/2021 → 10/28/2021) of the **2021-2022** school year (grades 6-8) are **closed**! Don't worry if you are still interested in signing up! We will be continuing our program in **January**. Stay tuned!
+
+<br>
+# Information Regarding Session #1
 
 This session will have workshops every Thursday from 5:00 pm to 6:30 pm, with the first meeting on September 30 and the last on October 28, as shown below:
 
