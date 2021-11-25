@@ -28,8 +28,7 @@ team:
         excerpt: >-
                 Krish is a sophomore at SBHS. In his free time, he likes to play video 
                 games with his friends, and is looking to specialize in game development. 
-                He enjoys listening to music, making music, and singing, 
-                and is looking to join the school's theatre club.
+                He enjoys listening to music, making music, and singing, and is looking to join the school's theatre club.
 ---
 
 {% include feature_row id="team" type="center" %}
