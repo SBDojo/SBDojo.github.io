@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   more about us, our goals, our workshop timings, and more!
 
 minimal_mistakes_skin: "contrast"
-logo: "/assets/images/sb-coderdojo-logo.png"
+logo: "/assets/images/CoderDojo-logo.png"
 
 repository: "SBDojo/SBDojo.github.io"
 
